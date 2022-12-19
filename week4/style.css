@@ -1,0 +1,25 @@
+h3{
+    color: aquamarine;
+    text-align: center;
+    text-decoration: solid;
+    font-size: xx-large;
+    /* font-style: normal; */
+}
+p{
+    background: #000;
+    color: antiquewhite;
+    text-align: left;
+    font-size: medium;
+}
+#css{
+    background: #000;
+    font-size: medium;
+    color: aliceblue;
+
+}
+h2:hover{
+    background: rgb(240, 0, 0);
+    text-align: center;
+    color: #000;
+
+}
