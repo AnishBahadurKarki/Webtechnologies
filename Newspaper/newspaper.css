@@ -1,0 +1,10 @@
+header,footer{
+    background-color: aqua;
+color:antiquewhite;
+height:200px;
+text-align: center;
+}
+section{
+    display: flex;
+
+}

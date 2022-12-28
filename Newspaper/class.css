@@ -1,0 +1,31 @@
+header{
+    background-color: blueviolet;
+    padding:100px;
+}
+section{
+    display: flex;
+   background-color: blue ;
+    padding: 300px;
+    
+}
+#one{
+    flex:3;
+    background-color: red;
+    padding:100px;
+
+    
+}
+#two{
+    flex:1;
+    background-color: bisque;
+        padding:100px;
+}
+body{
+    border: 1px;
+}
+
+footer{
+    background-color: aquamarine;
+    padding:100px;
+    position:;
+}
